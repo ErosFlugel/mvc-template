@@ -1,0 +1,15 @@
+{
+  "name": "mvc-template",
+  "version": "1.0.0",
+  "description": "Basic tamplate to start a project in the mvc design pattern",
+  "main": "./src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./src/app.js"
+  },
+  "author": "Eros Flugel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
